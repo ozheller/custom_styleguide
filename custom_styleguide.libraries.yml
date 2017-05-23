@@ -1,0 +1,5 @@
+custom-styleguide:
+  css:
+    component:
+      css/custom-styleguide.css:
+        minified: false

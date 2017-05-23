@@ -1,0 +1,19 @@
+name: Custom Styleguide
+description: 'Provides Style Guide content type and related configuration. Content type for online style guide.'
+type: module
+core: 8.x
+package: Custom
+dependencies:
+  - block
+  - entity_reference_revisions
+  - field
+  - file
+  - image
+  - node
+  - paragraphs
+  - path
+  - pathauto
+  - system
+  - text
+  - user
+  - video_embed_field
